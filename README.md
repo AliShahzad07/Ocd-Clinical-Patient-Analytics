@@ -11,6 +11,8 @@
 
 This repository contains a full-stack data engineering and BI solution developed for a **US-based healthcare client**. The project transforms 1,500+ fragmented patient records into an automated, high-performance intelligence dashboard to track **Y-BOCS (Yale-Brown Obsessive Compulsive Scale)** severity and demographic trends.
 
+![OCD Dashboard Preview](OCD%20CLINICAL%20INSIGHTS%20&%20PATIENTS%20DEMOGRAPHICS.png)
+
 
 
 -----
